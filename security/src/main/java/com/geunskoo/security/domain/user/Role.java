@@ -1,4 +1,4 @@
-package com.geunskoo.domain;
+package com.geunskoo.security.domain.user;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
